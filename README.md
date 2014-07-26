@@ -2,5 +2,4 @@ DataScience
 ===========
 
 Code written for data science
-## sample markdown with ##
-### sample markdown wuth ###
+### This is the first example of using the feature of markdown
